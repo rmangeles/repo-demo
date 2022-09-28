@@ -1,6 +1,6 @@
-#Sample README
+# Sample README
 
 This is a sample file.
 
-This is a a text.
+This is a a text!
 
